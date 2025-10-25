@@ -1,7 +1,8 @@
 <ServiceInformation>
-  <Bearer type="fm" pi="D3Y9" ecc="E0" />
+  <Bearer type="fm" pi="D3F9" ecc="E0" />
   <MediaDescription>
     <Logo src="https://hermantijhuis.github.io/radiodns-hosting/logo.png" />
   </MediaDescription>
 
 </ServiceInformation>
+
