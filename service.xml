@@ -1,0 +1,8 @@
+<ServiceInformation>
+  <Bearer type="fm" pi="D3Y9" ecc="E0" />
+  <MediaDescription>
+    <Logo src="https://hermantijhuis.github.io/radiodns-hosting/logo.png" />
+    <Website href="https://hermantijhuis.github.io/radiodns-hosting/" />
+    <Streaming href="https://stream.jouwstation.nl/live.mp3" />
+  </MediaDescription>
+</ServiceInformation>
